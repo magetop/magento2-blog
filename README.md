@@ -1,6 +1,6 @@
-# Magento 2 Blog free by Magetop
+# Magento 2 Blog Free by Magetop
 
-**Magento 2 Blog** by MageTop is a better blog for your e-commerce store without a framework such as Wordpress. Extend your store content and increase traffic with free Blog module for Magento 2. This extension allows you to create and manage a blog at your online store involving best SEO experience.
+**Magento 2 Blog** by Magetop is a better blog for your e-commerce store without a framework such as Wordpress. Extend your store content and increase traffic with free Blog module for Magento 2. This extension allows you to create and manage a blog at your online store involving best SEO experience.
 
 
 ## Highlight features
